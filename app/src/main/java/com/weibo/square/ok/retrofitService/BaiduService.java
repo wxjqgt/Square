@@ -1,10 +1,9 @@
-package com.weibo.square.retrofitService;
+package com.weibo.square.ok.retrofitService;
 
 import com.weibo.square.bean.douban.DouBan;
 
 import java.util.Map;
 
-import okhttp3.ResponseBody;
 import retrofit2.Call;
 import retrofit2.http.FieldMap;
 import retrofit2.http.FormUrlEncoded;
